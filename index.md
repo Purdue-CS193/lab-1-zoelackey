@@ -14,16 +14,24 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
 
 - Bulleted
 - List
+- now adding more
 
 1. Numbered
 2. List
+3. now adding more
 
 **Bold** and _Italic_ and `Code` text
+**More Bold**
+_More Italic_
+`More Code`
 
 [Link](url) and ![Image](src)
+
+[New Link](url) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
